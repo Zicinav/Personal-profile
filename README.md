@@ -5,6 +5,9 @@ Welcome to my personal portfolio website built with HTML and CSS! This site show
 📝 About Me
 I’m Veliswa Zicina, a passionate learner with 15 years of experience in project management and administration. I started my journey in tech later in life and discovered a love for how versatile, creative, and impactful this field can be. This site is a window into my growth, interests, and accomplishments.
 
+Web address
+https://zicinav.netlify.app
+
 
 🔧 Technologies Used
 
